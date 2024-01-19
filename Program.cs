@@ -35,11 +35,11 @@ class Program
 };
         List<Weapon> weapons = new List<Weapon>
 {
-    new Weapon("Меч", 10, 100),
-    new Weapon("Клинки-росомахи", 15, 100),
-    new Weapon("Камни", 18, 100),
-    new Weapon("Посох", 12, 100),
-    new Weapon("Секира", 25, 100)
+    new Weapon("Меч", 16, 100),
+    new Weapon("Клинки-росомахи", 20, 100),
+    new Weapon("Камни", 6, 100),
+    new Weapon("Посох", 14, 100),
+    new Weapon("Секира", 28, 100)
 };
         while (player.CurrentHealth > 0)
         {
